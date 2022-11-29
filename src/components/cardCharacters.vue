@@ -32,5 +32,8 @@ export default {
 </script>
 
 <style lang="scss" scoped>
-
+  .origin{
+    font-size: 20px;
+    font-weight: 500;
+  }
 </style>
